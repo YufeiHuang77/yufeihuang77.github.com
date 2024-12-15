@@ -25,6 +25,7 @@ GPA：3.49/4.00
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
 
+  
 **Sichuan University**
 
 B.S. in Mathematics and Applied Mathematics (elite class) &emsp; &emsp; &emsp; &emsp; Sep.2018-Jul.2023
