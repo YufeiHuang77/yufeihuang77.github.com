@@ -12,15 +12,23 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Education
 ======
 Peking University
+
 Master of Science in Data Science                             Sep.2023-Jul.2026
+
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
+
 Sichuan University
+
 B.S. in Mathematics and Applied Mathematics (elite class)     Sep.2018-Jul.2023
+
 Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematical Statistics, Mathematical Modeling, Scientific Computing
 
+
 Columbia University
+
 Summer Session                                                Jul.2019-Aug.2019
+
 Courses: Linear Algebra, Ordinary Differential Equation
 
 
