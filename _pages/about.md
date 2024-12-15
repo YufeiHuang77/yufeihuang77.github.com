@@ -13,7 +13,7 @@ Education
 ======
 **Peking University**
 
-Master of Science in Data Science &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep.2023-Jul.2026
+Master of Science in Data Science &thinsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep.2023-Jul.2026
 
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
