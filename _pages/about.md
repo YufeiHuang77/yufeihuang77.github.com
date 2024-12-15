@@ -31,7 +31,6 @@ Education
 
 Master of Science in Data Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep.2023-Jul.2026
 
-GPA：3.49/4.00
 
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
@@ -40,8 +39,6 @@ Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Meth
 **Sichuan University**
 
 B.S. in Mathematics and Applied Mathematics (elite class) &emsp; &emsp; &emsp; &emsp; Sep.2018-Jul.2023
-
-GPA：3.95/4.00
 
 Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematical Statistics, Mathematical Modeling, Scientific Computing
 
