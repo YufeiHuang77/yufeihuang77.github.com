@@ -30,6 +30,20 @@ B.S. in Mathematics and Applied Mathematics (elite class) &emsp; &emsp; &emsp; &
 Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematical Statistics, Mathematical Modeling, Scientific Computing
 
 
+Honors and awards
+======
+· National Scholarship, 2021-2022
+
+· National Scholarship, 2019-2020
+
+· The Second Prize of Chinese Mathematics Competition (Sichuan Province), 2021
+ 
+· The Second Prize of China Contemporary Undergraduate Mathematical Contest in Modeling (Sichuan Province), 2021
+
+· Excellent Graduates of Sichuan Province (2022-2023)
+
+· Excellent Students of Sichuan University (2019-2020)
+
 
 Getting started
 ======
