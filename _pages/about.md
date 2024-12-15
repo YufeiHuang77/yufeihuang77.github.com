@@ -11,8 +11,19 @@ Basic information
 ------
 **Name**: YufeiHuang
 
+**Institution**: Peking University
+
 **Email**: 2301213073@stu.pku.edu.cn
 
+<br/>
+
+Research Direction
+------
+
+Our research group is interested in developing statistical methods and theories for high-dimensional and big data, motivated by challenges arising in biological and medical research. Currently, we focus on high-dimensional approaches for network inference and clustering analysis.
+
+
+<br/>
 
 Education
 ------
@@ -34,6 +45,7 @@ GPA：3.95/4.00
 
 Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematical Statistics, Mathematical Modeling, Scientific Computing
 
+<br/>
 
 Honors and awards
 ------
