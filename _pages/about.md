@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Basic informatio
+Basic information
 ------
 **Name**: YufeiHuang
 
