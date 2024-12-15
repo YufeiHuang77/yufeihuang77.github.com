@@ -13,7 +13,7 @@ Education
 ======
 **Peking University**
 
-Master of Science in Data Science &emsp; Sep.2023-Jul.2026
+Master of Science in Data Science &emsp; &emsp; &emsp; Sep.2023-Jul.2026
 
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
@@ -27,7 +27,7 @@ Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematica
 
 **Columbia University**
 
-Summer Session &emsp; Jul.2019-Aug.2019
+Summer Session &emsp; &emsp; &emsp; &emsp; &emsp; Jul.2019-Aug.2019
 
 Courses: Linear Algebra, Ordinary Differential Equation
 
