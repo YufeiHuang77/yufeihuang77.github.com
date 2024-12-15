@@ -13,14 +13,14 @@ Education
 ======
 **Peking University**
 
-Master of Science in Data Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep.2023-Jul.2026
+Master of Science in Data Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep.2023-Jul.2026
 
 Majors: Machine Learning, Deep Learning, Statistical Learning, Optimization Methods, Python Big Data Analytics
 
 
 **Sichuan University**
 
-B.S. in Mathematics and Applied Mathematics (elite class) &emsp; Sep.2018-Jul.2023
+B.S. in Mathematics and Applied Mathematics (elite class) &emsp; &emsp; &emsp; &emsp; Sep.2018-Jul.2023
 
 Majors: Advanced Algebra, Mathematical Analysis, Probability Theory, Mathematical Statistics, Mathematical Modeling, Scientific Computing
 
